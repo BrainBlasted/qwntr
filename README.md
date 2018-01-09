@@ -1,11 +1,11 @@
 # QWNTR
 
-Search [qwant.com](qwant.com) from your terminal.
+Search [qwant.com](https://qwant.com) from your terminal.
 
 This is meant to be an alternative to apps like
 [ddgr](https://github.com/jarun/ddgr) and
 [googler](https://github.com/jarun/googler)
-using the Qwant search engine and [api.qwant.com](api.qwant.com).
+using the Qwant search engine and [api.qwant.com](https://api.qwant.com).
 
 # Why?
 
