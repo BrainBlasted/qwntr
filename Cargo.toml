@@ -1,0 +1,12 @@
+[package]
+name = "qwntr"
+version = "0.1.0"
+authors = ["BrainBlasted <brainblastedmods@gmail.com>"]
+
+[dependencies]
+termion = "1.0"
+liner = "0.4"
+locate-locale = "0.1"
+regex = "0.2"
+webbrowser = "0.2"
+qwant-api = { git = "https://github.com/BrainBlasted/qwant-api.git" }
